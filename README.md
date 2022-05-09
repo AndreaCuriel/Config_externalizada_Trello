@@ -1,1 +1,1 @@
-# Configuraci-n_externalizada_Trello
+# Configuracion_externalizada_Trello
